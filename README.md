@@ -1,4 +1,4 @@
 # custom_tabbar
 自定义tabbar--一句代码调用
 
-https://stats.justsong.cn/api/github?username=songquanpeng
+<img src="https://stats.justsong.cn/api/leetcode?username=username&cn=true" style="box-shadow:none !important">
